@@ -8,7 +8,7 @@ function setup(){
     document.getElementById("status").innerHTML = "Status : Detecting Objects";
 }
 function preload(){
-    img = loadImage('laptop and tab image.jpg');
+    img = loadImage('laptop_tab_image.jpg');
 }
 function draw(){
    /* image(img, 0, 0, 640, 420);
